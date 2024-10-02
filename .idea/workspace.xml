@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Installed Flask, added index and assets" />
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Deleted img folder">
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +131,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727877869586</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Deleted img folder">
+      <option name="closed" value="true" />
+      <created>1727878049766</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727878049766</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -149,6 +159,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Installed Flask, added index and assets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Installed Flask, added index and assets" />
+    <MESSAGE value="Deleted img folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted img folder" />
   </component>
 </project>
