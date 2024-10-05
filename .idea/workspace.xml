@@ -4,7 +4,22 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Deleted img folder">
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Typo fix">
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/bookshelf.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/coding.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/colophon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/resources.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/soto-zen.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Italic.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Light.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Medium.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-SemiBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-SemiBold.woff2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,21 +38,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "rindoshingen"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;rindoshingen&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/rindoshingen/Shingen.git",
-    "accountId": "1670194f-6466-4fa7-b9c4-c80a5e860318"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/rindoshingen/Shingen.git&quot;,
+    &quot;accountId&quot;: &quot;1670194f-6466-4fa7-b9c4-c80a5e860318&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2msquiizpBQhTS8j83F9D9zBWIL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -46,16 +61,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Python.app.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.__init__.executor&quot;: &quot;Run&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\static" />
@@ -76,7 +92,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Shingen\Desktop\Projects\Python\Shingen\app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727878049766</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Typo fix">
+      <option name="closed" value="true" />
+      <created>1727878231624</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727878231624</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -160,6 +184,7 @@
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Installed Flask, added index and assets" />
     <MESSAGE value="Deleted img folder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Deleted img folder" />
+    <MESSAGE value="Typo fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typo fix" />
   </component>
 </project>
