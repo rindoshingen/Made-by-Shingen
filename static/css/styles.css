@@ -64,15 +64,9 @@ body {
 }
 
 .mbs-services__heading {
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
     font-weight: 300;
     font-size: 1.1rem;
-}
-
-.mbs-services__items {
-    border-left: 1px dashed #e0e0e0;
-    margin-left: 0.5rem;
-    padding-left: 1.5rem;
 }
 
 .mbs-services__items div {
@@ -118,15 +112,9 @@ body {
 
 /* -- Contact -- */
 .mbs-contact__heading {
-    margin-bottom: 2rem;
+    margin-bottom: 2.5rem;
     font-weight: 300;
     font-size: 1.1rem;
-}
-
-.mbs-contact__items {
-    border-left: 1px dashed #e0e0e0;
-    margin-left: 0.5rem;
-    padding-left: 1.5rem;
 }
 
 .mbs-contact__items div {

@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Typo fix">
-      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/bookshelf.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/coding.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/colophon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/resources.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/soto-zen.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/reset.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Italic.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Italic.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Light.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Light.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Medium.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Medium.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-Regular.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-Regular.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/assets/fonts/JetBrainsMono-SemiBold.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/static/fonts/JetBrainsMono-SemiBold.woff2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Refactored controls and template tags">
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727878231624</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactored controls and template tags">
+      <option name="closed" value="true" />
+      <created>1728134076186</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728134076186</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -185,6 +178,7 @@
     <MESSAGE value="Installed Flask, added index and assets" />
     <MESSAGE value="Deleted img folder" />
     <MESSAGE value="Typo fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typo fix" />
+    <MESSAGE value="Refactored controls and template tags" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored controls and template tags" />
   </component>
 </project>
