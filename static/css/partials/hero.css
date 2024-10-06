@@ -1,0 +1,15 @@
+/* -- Hero Wrapper -- */
+.mbs-hero__wrapper {
+    margin-bottom: 4rem;
+}
+
+.mbs-hero__heading {
+    font-size: 1.5rem;
+    line-height: 1.5em;
+}
+
+@media (max-width: 440px) {
+    .mbs-hero__heading {
+        font-size: 1.3rem;
+    }
+}

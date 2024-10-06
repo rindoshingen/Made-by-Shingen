@@ -4,8 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Refactored controls and template tags">
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Minor css changes">
+      <change afterPath="$PROJECT_DIR$/static/css/partials/contact.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/footer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/global.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/header.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/hero.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/partials/services.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/bookshelf.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/bookshelf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/coding.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/coding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/colophon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/colophon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/soto-zen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/soto-zen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +51,9 @@
     &quot;accountId&quot;: &quot;1670194f-6466-4fa7-b9c4-c80a5e860318&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -59,6 +78,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\templates\pages" />
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\static" />
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\assets\img" />
     </key>
@@ -156,7 +176,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728134076186</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Minor css changes">
+      <option name="closed" value="true" />
+      <created>1728136249751</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728136249751</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -179,6 +207,7 @@
     <MESSAGE value="Deleted img folder" />
     <MESSAGE value="Typo fix" />
     <MESSAGE value="Refactored controls and template tags" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored controls and template tags" />
+    <MESSAGE value="Minor css changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Minor css changes" />
   </component>
 </project>

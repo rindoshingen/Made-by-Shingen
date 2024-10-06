@@ -1,0 +1,14 @@
+/* -- Header -- */
+.mbs-header__wrapper {
+    margin-bottom: 4rem;
+}
+
+.mbs-hero__wrapper p {
+    line-height: 1.7em;
+}
+
+/* -- Logo -- */
+.mbs-logo {
+    width: 42px;
+    height: 42px;
+}

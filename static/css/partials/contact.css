@@ -1,0 +1,47 @@
+/* -- Contact -- */
+.mbs-contact__heading {
+    margin-bottom: 2.5rem;
+    font-weight: 300;
+    font-size: 1.1rem;
+}
+
+.mbs-contact__items div {
+    border-bottom: 1px dashed #e0e0e0;
+    margin-bottom: 0.8rem;
+    padding-bottom: 1.4rem;
+
+    &:last-child {
+        border-bottom: 0;
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+}
+
+.mbs-contact__items h4 {
+    margin-bottom: 0.25rem;
+    font-size: 1rem;
+    font-weight: 500;
+
+    &:hover {
+        color: #2196f3;
+    }
+}
+
+.mbs-contact__items span {
+    font-style: italic;
+    font-size: 0.925rem;
+    color: #9e9e9e;
+}
+
+.mbs-contact__items a {
+    text-decoration: none;
+    color: inherit;
+}
+
+@media (max-width: 440px) {
+    .mbs-contact__items {
+        border: 0;
+        margin: 0;
+        padding: 0;
+    }
+}

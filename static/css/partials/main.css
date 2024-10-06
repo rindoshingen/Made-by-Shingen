@@ -1,0 +1,13 @@
+/* -- Main Wrapper -- */
+.mbs-main__wrapper {
+    display: flex;
+    flex-direction: column;
+    max-width: 720px;
+    margin: 6rem auto 2rem auto;
+}
+
+@media (max-width: 770px) {
+    .mbs-main__wrapper {
+        padding: 0 1rem;
+    }
+}

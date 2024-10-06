@@ -1,0 +1,40 @@
+/* -- Footer -- */
+.mbs-footer__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 4rem;
+    font-size: 0.925rem;
+}
+
+.mbs-footer__wrapper a {
+    text-decoration: none;
+    color: inherit;
+
+    &:hover {
+        color: #2196f3;
+    }
+}
+
+.mbs-footer__top {
+    display: flex;
+    align-items: center;
+}
+
+.mbs-footer__top--col {
+    border-right: 1px solid #e0e0e0;
+    padding-right: 0.8rem;
+    margin-right: 0.5rem;
+}
+
+.mbs-footer__top--icon {
+    width: 22px;
+    height: 22px;
+    cursor: pointer;
+}
+
+@media (max-width: 440px) {
+    .mbs-footer__wrapper {
+        flex-direction: column;
+    }
+}
