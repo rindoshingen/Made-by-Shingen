@@ -30,7 +30,11 @@
             </a>
         </header>
 
-{% block content %} {% endblock %}
+		{% if show_header %}
+			{% include '_heading.html' %}
+		{% endif %}
+
+		{% block content %} {% endblock %}
 
 		<footer>
 			{% block footer %}

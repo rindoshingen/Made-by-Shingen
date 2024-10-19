@@ -1,0 +1,22 @@
+.page-header h1 {
+	font-size: 1.8rem;
+}
+
+.breadcrumb ul {
+	display: flex;
+	flex-direction: row;
+	gap: 1rem;
+	list-style: none;
+	padding: 0;
+}
+
+.breadcrumb ul a {
+	text-decoration: none;
+	border-bottom: 1px dashed #4e4e4e;
+	padding-bottom: 0.15rem;
+	font-weight: 500;
+
+	&:hover {
+		color: #2196f3;
+	}
+}

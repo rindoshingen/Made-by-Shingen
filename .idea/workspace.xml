@@ -4,8 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Refactoring of css structure; smooth scroll; new logo">
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Changed import value">
+      <change afterPath="$PROJECT_DIR$/static/css/partials/heading.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/_heading.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/reset.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/partials/reset.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/bookshelf.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/bookshelf.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/coding.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/coding.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/colophon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/colophon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/resources.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/pages/soto-zen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/soto-zen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +74,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\static\css\partials" />
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\templates\pages" />
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\static" />
       <recent name="C:\Users\Shingen\Desktop\Projects\Python\Shingen\assets\img" />
@@ -176,7 +189,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728221732881</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Changed import value">
+      <option name="closed" value="true" />
+      <created>1729336360564</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1729336360564</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -201,6 +222,7 @@
     <MESSAGE value="Refactored controls and template tags" />
     <MESSAGE value="Minor css changes" />
     <MESSAGE value="Refactoring of css structure; smooth scroll; new logo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactoring of css structure; smooth scroll; new logo" />
+    <MESSAGE value="Changed import value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed import value" />
   </component>
 </project>
