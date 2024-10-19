@@ -4,24 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Minor css changes">
-      <change afterPath="$PROJECT_DIR$/static/css/partials/contact.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/global.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/hero.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/partials/services.css" afterDir="false" />
+    <list default="true" id="4ddf6998-4d81-4329-8f50-0bfff879ca10" name="Changes" comment="Refactoring of css structure; smooth scroll; new logo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/bookshelf.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/bookshelf.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/coding.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/coding.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/colophon.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/colophon.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/resources.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/resources.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/soto-zen.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/pages/soto-zen.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -184,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728136249751</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Refactoring of css structure; smooth scroll; new logo">
+      <option name="closed" value="true" />
+      <created>1728221732881</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728221732881</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -208,6 +200,7 @@
     <MESSAGE value="Typo fix" />
     <MESSAGE value="Refactored controls and template tags" />
     <MESSAGE value="Minor css changes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Minor css changes" />
+    <MESSAGE value="Refactoring of css structure; smooth scroll; new logo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactoring of css structure; smooth scroll; new logo" />
   </component>
 </project>
